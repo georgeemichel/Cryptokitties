@@ -9,4 +9,4 @@ You can find a copy of it on the Ethereum blockchain [here](https://etherscan.io
 
 ## Credits
 
-Credits for this code go to the team at Cryptokitties. 
+Credits for this code go to the team at Cryptokitties :D. 
